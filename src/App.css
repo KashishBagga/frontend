@@ -1,0 +1,77 @@
+.add_btn{
+    text-align: right;
+}
+.welcome{
+    text-align: center ;
+}
+.container{
+    overflow: auto;
+    /* display: grid; */
+}.add_btn{
+    text-align: right;
+}
+.welcome{
+    text-align: center ;
+}
+.container{
+    overflow: auto;
+    /* display: grid; */
+}
+.leftview h3 {
+    font-size: 20px;
+}
+.leftview p{
+    font-weight: 600;
+}
+.leftview span{
+    font-weight: 400;
+}
+.rightview h3{
+    font-size: 20px;
+}
+.rightview p {
+    font-weight: 600;
+}
+.rightview span {
+    font-weight: 400;
+}
+.prev_btn{
+    text-align: left;
+}
+
+.navbar{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.myCustomNavbarClass {
+    width: 100vw;
+}
+.leftview h3 {
+    font-size: 20px;
+}
+.leftview p{
+    font-weight: 600;
+}
+.leftview span{
+    font-weight: 400;
+}
+.rightview h3{
+    font-size: 20px;
+}
+.rightview p {
+    font-weight: 600;
+}
+.rightview span {
+    font-weight: 400;
+}
+.prev_btn{
+    text-align: left;
+}
+
+.navbar{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.myCustomNavbarClass {
+    width: 100vw;
+}
